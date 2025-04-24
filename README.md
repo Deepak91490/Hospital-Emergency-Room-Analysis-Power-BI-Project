@@ -1,2 +1,8 @@
 # Hospital-Emergency-Room-Analysis-Power-BI-Project
-This project involves a comprehensive descriptive analysis of an emergency room dataset covering April 2023 to October 2024, using Power BI for data visualization and reporting. The goal was to uncover key operational insights to support better patient care and resource management.
+## Project Objective
+The objective of this project is to analyze emergency room patient data using Power BI to uncover operational insights that can help improve patient flow, satisfaction, and resource management. By examining key metrics such as patient wait times, satisfaction scores, referral patterns, admission rates, and peak busy periods, the project aims to:
+- Identify operational bottlenecks affecting patient experience.
+- Highlight periods of high patient volume to optimize staffing and resource allocation.
+- Understand patient demographics and referral trends to improve service delivery.
+- Provide actionable recommendations for enhancing emergency room efficiency and patient care outcomes.
+## Dataset
