@@ -49,7 +49,8 @@ The objective of this project is to **analyze emergency room patient data** to u
 - **Power BI Desktop** – for data modeling, visualization, and dashboard creation.
 - **Microsoft Excel** – for initial data cleaning and exploration.
 - **DAX (Data Analysis Expressions)** – for creating calculated measures and KPIs.
-
+- Dashboard Interaction 
+- <a href= "https://github.com/Deepak91490/Hospital-Emergency-Room-Analysis-Power-BI-Project/blob/main/Hospital%20Emergency%20Room%20Analysis.pbix">View Dashboard</a>
 ---
 
 ## Key Insights
@@ -65,8 +66,32 @@ The objective of this project is to **analyze emergency room patient data** to u
 
 ---
 
-## Conclusion
+## Process
+**The project followed a structured, step-by-step approach**:
+- **Data Collection**: Imported emergency room patient data for a 19-month period.
+- **Data Cleaning & Preparation**: Removed duplicates, handled null values, and formatted data for analysis.
+- **Data Modeling**: Structured the data model in Power BI, establishing necessary relationships.
+- **KPI Calculation**: Created calculated measures using DAX for key metrics like average wait time, satisfaction score, and patient counts.
+- **Dashboard Development**: Designed interactive visuals including KPI cards, charts, heat maps, and tables.
+- **Insight Extraction**: Analyzed trends and patterns to identify operational issues, patient demographics, and peak periods.
+- **Reporting**: Finalized an interactive dashboard and summarized key findings and recommendations.
 
-This project highlights operational patterns, demographic insights, and patient experience metrics in the emergency room. The findings provide a data-driven foundation for optimizing staffing schedules, improving patient flow, and enhancing overall emergency care services.
+---
+
+## Dashboard
+  ![Healthcare 1](https://github.com/user-attachments/assets/9a859855-f419-4961-a0a1-7cdb57451799)
+  ![Healthcare 2](https://github.com/user-attachments/assets/4859ecfd-3ebb-4d5d-b94a-bf1fff207a42)
+  ![Healthcare 3](https://github.com/user-attachments/assets/5308bfdd-09f1-4214-83b7-358cd8e5b721)
+  ![Healthcare 4](https://github.com/user-attachments/assets/7fdb6b4d-7986-4b83-90c7-c7ac3782e646)
+
+---
+
+  
+
+
+## Conclusion
+This analysis of the emergency room dataset, spanning April 2023 to October 2024, provides valuable insights into patient flow, satisfaction, and operational patterns. The findings highlight areas of strength, such as effective referral pathways to General Practice and Orthopedics, as well as opportunities for improvement, particularly in patient wait times and satisfaction levels. Notably, peak periods during weekends and specific hours demand strategic staffing adjustments to better manage patient volumes and enhance service delivery.
+The demographic breakdown reveals a diverse patient population with varied healthcare needs, emphasizing the importance of culturally sensitive and inclusive care practices. Additionally, the nearly balanced admission and discharge rates suggest the emergency room functions both as a critical point of care and a triage hub for broader hospital services.
+Overall, these insights provide a solid foundation for hospital administrators to make data-driven decisions aimed at improving patient experiences, optimizing resource allocation, and enhancing overall emergency room efficiency.
 
 ---
